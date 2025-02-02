@@ -11,7 +11,6 @@ _description_
 > **Note**:
 > Replace `pkg-placeholder`, `_description_` and `POfeiY` globally to use this template.
 
-
 ## License
 
 [MIT](./LICENSE) License © [Zili Yu](https://github.com/POfeiY)
